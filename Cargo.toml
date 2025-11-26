@@ -1,0 +1,9 @@
+[package]
+name = "rust-start"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# logging
+tracing = "0.1.41"
+tracing-subscriber = "0.3.20"
